@@ -1,0 +1,4 @@
+echo"Hello,world"
+echo"What is your name"
+read Name
+echo"Hell0,$Name"
